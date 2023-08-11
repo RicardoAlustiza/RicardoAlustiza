@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi, Im Ricardo Alustiza 👋
 
+```js
+const ricardo = {
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Node],
+}
+```
 <!--
 **RicardoAlustiza/RicardoAlustiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
